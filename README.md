@@ -10,8 +10,13 @@ Nama : Alvionej Resna Lawrend Pandiangan NIM: 2409116073 Sistem Informasi
 1. Pengguna melakukan login dengan menginputkan nama, NIM, Kelas, Prodi.
    
    ![Gambar WhatsApp 2024-09-30 pukul 23 18 36_314e9a78](https://github.com/user-attachments/assets/134b7974-ce55-47a9-9646-35410b00f5c2)
+
+   tampilan output jika sudah login dengan menginputkan nama, NIM, Kelas, Prodi.
+
+    ![Gambar WhatsApp 2024-10-01 pukul 10 19 02_ed5a4de0](https://github.com/user-attachments/assets/97c50773-f91c-4c3d-a996-9804e628b710)
+
    
-2. Setelah berhasil, maka pengguna akan diarahkan untuk menginput jam kerja dan tarif kerja (jika jam kerja karyawan lebih dari 160 jam, maka mendapatkan tambahkan bonus sebesar 10% dari total gaji.Sedangkan jika tidak mencapai lebih dari 160 jam, maka tidak mendapatkan bonus.)
+3. Setelah berhasil, maka pengguna akan diarahkan untuk menginput jam kerja dan tarif kerja (jika jam kerja karyawan lebih dari 160 jam, maka mendapatkan tambahkan bonus sebesar 10% dari total gaji.Sedangkan jika tidak mencapai lebih dari 160 jam, maka tidak mendapatkan bonus.)
    
    ![Gambar WhatsApp 2024-09-30 pukul 23 19 26_2bcea698](https://github.com/user-attachments/assets/16de6b6d-7ad6-40d2-8927-c3827d629ea3)
 
@@ -23,7 +28,7 @@ Nama : Alvionej Resna Lawrend Pandiangan NIM: 2409116073 Sistem Informasi
    
    ![Cuplikan layar 2024-09-30 230527](https://github.com/user-attachments/assets/0b88f95d-5e13-49cc-bde0-2beec731f5b0)
    
-3. Jika pengguna sudah selesai menginput jam kerja dan tarif kerja, maka akan diarahkan "apakah ingin keluar dari program?", jika iya maka akan keluar,jika tidak maka akan kembali menginput jam kerja dan tarif kerja seterusnya.
+4. Jika pengguna sudah selesai menginput jam kerja dan tarif kerja, maka akan diarahkan "apakah ingin keluar dari program?", jika iya maka akan keluar,jika tidak maka akan kembali menginput jam kerja dan tarif kerja seterusnya.
    
    ![Gambar WhatsApp 2024-09-30 pukul 23 19 51_76ca950d](https://github.com/user-attachments/assets/b33c5f47-de21-4561-8773-2991cce5c0be)
 
